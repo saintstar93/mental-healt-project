@@ -1,0 +1,8 @@
+# Ignore Python cache and Jupyter metadata
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+*.csv
+.env
+.DS_Store
